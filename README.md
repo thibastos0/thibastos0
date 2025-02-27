@@ -1,11 +1,11 @@
-## Hi there, I'm Thiago Bastos @thibastos0 :wave:
+## Hi there, I'm Thiago Bastos @thibastos0 👋
 
-### Social Media
+### 🏄 Social Media
 - [X](https://x.com/thibastos2)
 
 
 
-### Stats
+### 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibastos0&show_icons=true&theme=github_dark&hide=stars)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibastos0&layout=compact&langs_count=8&theme=github_dark)]
 
