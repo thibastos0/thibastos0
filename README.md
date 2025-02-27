@@ -1,7 +1,7 @@
 ## Hi there, I'm Thiago Bastos @thibastos0 👋
 
 ### 🏄 Social Media
-- [X](https://x.com/thibastos2)
+[<img src="https://github.com/thibastos0/thibastos0/blob/main/assets/square-x-twitter-brands.svg" width="30">](https://x.com/thibastos2)
 
 
 
