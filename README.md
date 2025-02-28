@@ -1,11 +1,11 @@
-## Hi there, I'm Thiago Bastos @thibastos0 👋
+## Hi there, I'm Thiago Bastos 👋
 
-### 
-[<img src="https://github.com/thibastos0/thibastos0/blob/main/assets/square-x-twitter-brands.svg" width="30">](https://x.com/thibastos2)
-[<img src="https://github.com/thibastos0/thibastos0/blob/main/assets/linkedin-brands.svg" width="30">](https://www.linkedin.com/in/thibastos0/)
+###  Studing Software Development at FATEC Indaiatuba
 
+## 😎 How to contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=009CE2)](https://www.linkedin.com/in/thibastos0) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=96080E)](mailto:thibastos@gmail.com)
 
-### 📊 Stats
+## 📊 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibastos0&show_icons=true&theme=github_dark&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibastos0&layout=compact&langs_count=8&theme=github_dark)
 
