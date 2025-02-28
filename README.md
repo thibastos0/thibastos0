@@ -9,6 +9,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibastos0&show_icons=true&theme=github_dark&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibastos0&layout=compact&langs_count=8&theme=github_dark)
 
+### 📘 Jupyter Notebooks
+Aqui estão alguns dos Jupyter Notebooks disponíveis no repositório [PythonDSA](https://github.com/thibastos0/PythonDSA):
+- [Cap02/Teste.ipynb](https://github.com/thibastos0/PythonDSA/blob/f87c6843e258f4b82f86b82b69718faf9d84a620/Cap02/Teste.ipynb)
+- [Cap08/Lab4-v1.ipynb](https://github.com/thibastos0/PythonDSA/blob/f87c6843e258f4b82f86b82b69718faf9d84a620/Cap08/Lab4-v1.ipynb)
+- [Cap07/dsa_projeto1_game.v1.ipynb](https://github.com/thibastos0/PythonDSA/blob/f87c6843e258f4b82f86b82b69718faf9d84a620/Cap07/dsa_projeto1_game.v1.ipynb)
+- [Cap08/DSA-Python-Cap08-04-Heranca.ipynb](https://github.com/thibastos0/PythonDSA/blob/f87c6843e258f4b82f86b82b69718faf9d84a620/Cap08/DSA-Python-Cap08-04-Heranca.ipynb)
+- [Cap05/DSA-Python-Cap05-06-Funcoes.ipynb](https://github.com/thibastos0/PythonDSA/blob/f87c6843e258f4b82f86b82b69718faf9d84a620/Cap05/DSA-Python-Cap05-06-Funcoes.ipynb)
 
 <!--
 **thibastos0/thibastos0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
