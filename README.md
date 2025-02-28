@@ -1,13 +1,13 @@
 ## Hi there, I'm Thiago Bastos @thibastos0 👋
 
-### 🏄 Social Media
+### 
 [<img src="https://github.com/thibastos0/thibastos0/blob/main/assets/square-x-twitter-brands.svg" width="30">](https://x.com/thibastos2)
-
+[<img src="https://github.com/thibastos0/thibastos0/blob/main/assets/linkedin-brands.svg" width="30">](https://www.linkedin.com/in/thibastos0/)
 
 
 ### 📊 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibastos0&show_icons=true&theme=github_dark&hide=stars)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibastos0&layout=compact&langs_count=8&theme=github_dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibastos0&show_icons=true&theme=github_dark&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibastos0&layout=compact&langs_count=8&theme=github_dark)
 
 
 <!--
