@@ -23,7 +23,7 @@ This is a mandatory interdisciplinary project developed during my studies at **F
     Implementation using the Laravel framework, exploring the agility of the PHP ecosystem and the MVC architectural pattern.
 
 * **[SOSEngasgo_Android (Mobile Migration)](https://github.com/thibastos0/SOSEngasgo_Android)** ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)  
-    The latest evolution of the project: migrating the core features to a mobile environment to improve accessibility and user experience in emergency situations.
+    The latest evolution of the project: migrating to mobile to improve accessibility and experience. The backend implementation is in its early stages, with current development focused on the initial screens and UI/UX design.
 
 ---
 
