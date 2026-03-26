@@ -22,7 +22,7 @@ This is a mandatory interdisciplinary project developed during my studies at **F
 * **[SOSEngasgo_PHP (Laravel)](https://github.com/thibastos0/SOSEngasgo_PHP)** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)  
     Implementation using the Laravel framework, exploring the agility of the PHP ecosystem and the MVC architectural pattern.
 
-* **[SOSEngasgo_Android (Mobile Migration)](https://github.com/thibastos0/SOSEngasgo_Android)** ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)  
+* **[SOSEngasgo_Android (Mobile Migration)](https://github.com/thibastos0/SOSEngasgo_Android)** ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
     The latest evolution of the project: migrating to mobile to improve accessibility and experience. The backend implementation is in its early stages, with current development focused on the initial screens and UI/UX design.
 
 ---
