@@ -26,8 +26,8 @@ Hackathon FATEC 2026 project focused on delivering a practical web solution for 
 ### **[ML Health Lifestyle](https://github.com/thibastos0/ML_Health_LifeStyle)**
 Machine Learning project from the 5th semester of FATEC, using Jupyter Notebooks to explore health and lifestyle data.
 
-### **[Doces Anyapp](https://github.com/thibastos0/docesAnyapp)**
-TypeScript application project with attention to user experience, product thinking, and modern application development.
+### **[Doces Anyapp](https://github.com/thibastos0/AulasReactNative/tree/main/docesAnyapp)**
+Mobile application developed with Expo, React Native, and TypeScript for managing a digital sweets menu. The project includes item registration, listing, editing, deletion, details viewing, and local persistence with SQLite.
 
 ### **[Taskflow API](https://github.com/thibastos0/taskflow-api)**
 Python API project focused on backend development and task-oriented systems.
@@ -51,7 +51,7 @@ Knowledge organization and documentation project developed for a DIO challenge.
 
 ## Academic background
 
-Currently studying **Software Development at FATEC Indaiatuba**. My repositories include academic projects, technical experiments, and hands-on learning across software engineering, mobile development, data, and automation.
+Currently studying **Software Development at FATEC Indaiatuba**. My repositories include academic projects, technical experiments, and hands-on learning across software engineering, mobile development, automation, and data.
 
 ## Contact
 
@@ -76,13 +76,13 @@ Tenho interesse em transformar requisitos em software funcional por meio de espe
 
 - **[Minha Farmácia](https://github.com/thibastos0/minha_farmacia)** — Projeto do Hackathon FATEC 2026, com foco em uma solução web para o domínio farmacêutico. [Demo](https://minhafarmacia-rouge.vercel.app)
 - **[ML Health Lifestyle](https://github.com/thibastos0/ML_Health_LifeStyle)** — Projeto de Machine Learning aplicado a dados de saúde e estilo de vida.
-- **[Doces Anyapp](https://github.com/thibastos0/docesAnyapp)** — Aplicação em TypeScript com foco em experiência do usuário e desenvolvimento moderno.
+- **[Doces Anyapp](https://github.com/thibastos0/AulasReactNative/tree/main/docesAnyapp)** — Aplicação mobile desenvolvida com Expo, React Native e TypeScript para gerenciamento de um cardápio digital de doces, com operações de cadastro, consulta, edição e exclusão e persistência local com SQLite.
 - **[Taskflow API](https://github.com/thibastos0/taskflow-api)** — API em Python voltada ao desenvolvimento backend e gerenciamento de tarefas.
 - **[Investment Assistant com n8n](https://github.com/thibastos0/dio-lab-assistente-investimentos-rpa-n8n)** — Projeto de automação e RPA desenvolvido com n8n.
 
 ## Projeto Integrador: SOS Engasgo
 
-O **SOS Engasgo** continua documentado como parte importante da minha trajetória acadêmica, mas com destaque reduzido no portfólio. Atualmente, estou conduzindo a transição da solução para uma experiência mobile com React Native:
+O **SOS Engasgo** continua documentado como parte importante da minha trajetória acadêmica, mas com destaque reduzido no portfólio. Atualmente, estou conduzindo a transição da solução para uma arquitetura mobile mais atual.
 
 - **[SOSEngasgo_ReactNative](https://github.com/thibastos0/SOSEngasgo_ReactNative)** — Migração mobile atual com TypeScript e React Native.
 - **[SOSEngasgo](https://github.com/thibastos0/SOSEngasgo)** — Implementação backend com Java e Spring Boot.
